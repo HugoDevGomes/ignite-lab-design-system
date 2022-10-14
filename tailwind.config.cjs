@@ -31,6 +31,11 @@ module.exports = {
         300: '#9BE1FB',
       },
 
+      green: {
+        500: '#00D1B2',
+        300: '#8FEDDF'
+      },
+
       'gray-900': '#121214',
       'gray-800': '#202024',
       'gray-400': '#7C7C8A',
@@ -39,6 +44,9 @@ module.exports = {
 
       'cyan-500': '#81D8F7',
       'cyan-300': '#9BE1FB',
+
+      'green-500': '#00D1B2',
+      'green-300': '#8FEDDF',
       
       'black': '#000000',
       'white': '#FFFFFF'
